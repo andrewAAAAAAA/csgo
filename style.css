@@ -1,0 +1,17 @@
+
+.part2{
+    border-bottom: 20px solid gray;
+
+}
+body{
+    font-family: Robot;
+    color: gray;
+}
+body{
+    background-image: url("cs.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.part3{
+    border-bottom: 20px solid gray;
+}
